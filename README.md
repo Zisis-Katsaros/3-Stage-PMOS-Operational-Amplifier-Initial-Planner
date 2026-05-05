@@ -1,9 +1,9 @@
 # 3-Stage-PMOS-Operational-Amplifier-Initial-Planner
 
-MATLAB script for the initial transistor width calculation of a 3-Stage PMOS Operational Amplifier based on the given specifications. This was part of the operational amplifier design project of my Electronics 3 course. 
+MATLAB script for the initial transistor width calculation of a 3-Stage PMOS Operational Amplifier based on the given specifications. This was part of the operational amplifier design project for my Electronics 3 course. 
 
 ## Use
-The algorithm requires the following inputs:
+The algorithm requires following inputs:
 
 - $C_L$: Load capacitance
 - $GB$: Gain-bandwidth product
